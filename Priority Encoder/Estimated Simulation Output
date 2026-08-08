@@ -1,0 +1,8 @@
+Time=0  | Input=0000 | Output=00 | Valid=0
+Time=10 | Input=0001 | Output=00 | Valid=1
+Time=20 | Input=0010 | Output=01 | Valid=1
+Time=30 | Input=0100 | Output=10 | Valid=1
+Time=40 | Input=1000 | Output=11 | Valid=1
+Time=50 | Input=1010 | Output=11 | Valid=1
+Time=60 | Input=0111 | Output=10 | Valid=1
+Time=70 | Input=1111 | Output=11 | Valid=1
